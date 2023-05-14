@@ -2,6 +2,8 @@
 
 # The History of Rhetoric
 
+<span style="font-size: small;">Thursday, May 17, 2012</span>
+
 I really liked this episode of [Engines of our Ingenuity about rhetoric](http://www.uh.edu/engines/epi1926.htm) It discussed the history of rhetoric as a skill of persuasion taught by the Sophists in the fifth century BC.
 
 > "Sophist rhetoric was attacked by Plato, who believed in arguments based on logic. To Plato, logical arguments led to >truth, a far nobler goal than simply winning an argument."
